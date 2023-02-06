@@ -1,6 +1,7 @@
 <h1 align="center"><b>:wave: Hi! I'm Jose :wave:</b></h1>
   <p>
       *🌱 Cursante de NUCBA 
+      *🌱 Cursante de Henry 
   </p>
 <hr>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Joeys101&&show_icons=true&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&count_private=true"></p> 
